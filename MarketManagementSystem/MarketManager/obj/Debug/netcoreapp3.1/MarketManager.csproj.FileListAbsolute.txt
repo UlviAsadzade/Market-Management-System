@@ -1,0 +1,13 @@
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\bin\Debug\netcoreapp3.1\MarketManager.exe
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\bin\Debug\netcoreapp3.1\MarketManager.deps.json
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\bin\Debug\netcoreapp3.1\MarketManager.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\bin\Debug\netcoreapp3.1\MarketManager.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\bin\Debug\netcoreapp3.1\MarketManager.dll
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\bin\Debug\netcoreapp3.1\MarketManager.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.dll
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\MarketManager\MarketManager\obj\Debug\netcoreapp3.1\MarketManager.genruntimeconfig.cache
